@@ -1,0 +1,12 @@
+h1{
+    color:red;
+    font-style: oblique;
+}
+h2{
+    color:blue;
+    font-family: fantasy;
+}
+body{
+    background: rgb(80, 199, 80);
+    margin:auto;
+}
